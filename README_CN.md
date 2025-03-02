@@ -26,6 +26,11 @@ yarn build
 
 后续打包问题，可参考下方内容
 
+运行效果
+![image](run.png)
+
+点击「点我」后，插入代码进入cell
+
 ## Requirements
 
 - JupyterLab >= 4.0.0

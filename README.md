@@ -3,6 +3,7 @@
 [![Github Actions Status](git@github.com:SecretCastle/jupyter-custom-widget.git/workflows/Build/badge.svg)](git@github.com:SecretCastle/jupyter-custom-widget.git/actions/workflows/build.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/git@github.com:SecretCastle/jupyter-custom-widget.git/main?urlpath=lab)
 
+如何开发请点击[这里](./README_CN.md)
 
 A JupyterLab extension.
 
